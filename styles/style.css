@@ -150,8 +150,7 @@ body{
 @media screen and (max-width: 440px) {
     @media screen and (min-height: 650px){
         body{
-            /*background-color: hsl(30, 38%, 92%);*/
-            background-color: aqua;
+            background-color: hsl(30, 38%, 92%);
             }
     
         .box{
